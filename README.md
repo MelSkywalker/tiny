@@ -12,7 +12,7 @@ $npm install @mel.skywalker/tiny
 
 ##Usage
 ```js
-const tiny = require("@mel.skywalker/tiny);
+const tiny = require("@mel.skywalker/tiny");
 tiny("So much space!");
 //=> "Somuchspace!"
 
